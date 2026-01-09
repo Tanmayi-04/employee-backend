@@ -1,4 +1,4 @@
-package com.capgemini.employee_backend.controller;
+package com.company.employee_backend.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
